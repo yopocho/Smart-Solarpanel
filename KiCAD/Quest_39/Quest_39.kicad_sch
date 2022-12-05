@@ -1818,9 +1818,6 @@
     (path "/86c56244-19b9-4ed3-b2bb-999a777f80be"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/99df4cac-a180-439e-9fe2-5601cb422da1"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/bbd3087c-137b-4fdd-bd61-fe3f47370837"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -1832,9 +1829,6 @@
     )
     (path "/fd8c4578-ed8e-4d3a-9955-d06417080b3a"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/0b511a09-a35e-451d-b4c3-206c37451806"
-      (reference "C?") (unit 1) (value "47uF") (footprint "")
     )
     (path "/13614c98-6637-4d53-9ee9-4bceeee8500e"
       (reference "C?") (unit 1) (value "100nF") (footprint "")
@@ -1854,6 +1848,9 @@
     (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/50b36328-a3b0-4cc8-aa9f-826df9d30084"
       (reference "C?") (unit 1) (value "22uF") (footprint "")
     )
+    (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/5817aa2c-0534-402d-8183-0d48568c7d48"
+      (reference "C?") (unit 1) (value "100uF") (footprint "")
+    )
     (path "/5b48dfed-f070-45d8-b79f-bb449fb363c5"
       (reference "C?") (unit 1) (value "100nF") (footprint "")
     )
@@ -1866,6 +1863,9 @@
     (path "/654016ad-09d4-4e07-baff-5c984e367eee"
       (reference "C?") (unit 1) (value "14pF") (footprint "")
     )
+    (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/6739f737-b90a-4e02-9f3b-2450e1dc9512"
+      (reference "C?") (unit 1) (value "100uF") (footprint "")
+    )
     (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/6a769ec2-af8a-441b-b133-09a969db40d4"
       (reference "C?") (unit 1) (value "1uF") (footprint "OptoDevice:R_LDR_4.9x4.2mm_P2.54mm_Vertical")
     )
@@ -1875,11 +1875,14 @@
     (path "/a8c32a45-6aaf-4971-8c59-f5ff6189b4c2"
       (reference "C?") (unit 1) (value "100nF") (footprint "")
     )
+    (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/ce5df7cc-ebd7-4a1d-9afe-eb89f50e98a2"
+      (reference "C?") (unit 1) (value "100uF") (footprint "")
+    )
     (path "/ceab6c85-7adc-4872-9994-b13cdd677bdb"
       (reference "C?") (unit 1) (value "100nF") (footprint "")
     )
     (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/d6b204e2-9af5-47ee-af17-9012de63db39"
-      (reference "C?") (unit 1) (value "220uF") (footprint "")
+      (reference "C?") (unit 1) (value "100uF") (footprint "")
     )
     (path "/df4535d6-5a14-498a-ba95-9deb61823cf6"
       (reference "C?") (unit 1) (value "100nF") (footprint "")
