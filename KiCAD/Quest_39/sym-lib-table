@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name "LTM4611EV")(type "Legacy")(uri "C:/Users/niels/Documents/Homework/Jaar_3/Quest/Smart_Solarpanel_Repository/KiCAD/Component libraries/ul_LTM4611EV-PBF/KiCAD/2022-11-28_12-12-20/2022-11-28_12-12-20.lib")(options "")(descr ""))
-  (lib (name "MCP4151")(type "Legacy")(uri "C:/Users/niels/Documents/Homework/Jaar_3/Quest/Smart_Solarpanel_Repository/KiCAD/Component libraries/ul_MCP4151-502E-SN/KiCAD/2022-11-28_13-42-35/2022-11-28_13-42-35.lib")(options "")(descr ""))
-  (lib (name "TB005-762-02BE")(type "Legacy")(uri "C:/Users/niels/Documents/Homework/Jaar_3/Quest/Smart_Solarpanel_Repository/KiCAD/Component libraries/ul_TB005-762-02BE/KiCAD/2022-12-06_08-09-38/2022-12-06_08-09-38.lib")(options "")(descr ""))
+  (lib (name "LTM4611EV")(type "Legacy")(uri "C:/Users/Marnix/Desktop/School/Quest_39/Smart-Solarpanel/KiCAD/Component libraries/ul_LTM4611EV-PBF/KiCAD/2022-11-28_12-12-20/2022-11-28_12-12-20.lib")(options "")(descr ""))
+  (lib (name "MCP4151")(type "Legacy")(uri "C:/Users/Marnix/Desktop/School/Quest_39/Smart-Solarpanel/KiCAD/Component libraries/ul_MCP4151-502E-SN/KiCAD/2022-11-28_13-42-35/2022-11-28_13-42-35.lib")(options "")(descr ""))
+  (lib (name "TB005-762-02BE")(type "Legacy")(uri "C:/Users/Marnix/Desktop/School/Quest_39/Smart-Solarpanel/KiCAD/Component libraries/ul_TB005-762-02BE/KiCAD/2022-12-06_08-09-38/2022-12-06_08-09-38.lib")(options "")(descr ""))
+  (lib (name "17791063215-5V-Isolated-Buck")(type "KiCad")(uri "C:/Users/Marnix/Desktop/School/Quest_39/Smart-Solarpanel/KiCAD/Component libraries/ul_17791063215/KiCAD/2022-12-12_08-27-34/2022-12-12_08-27-34.kicad_sym")(options "")(descr ""))
 )
