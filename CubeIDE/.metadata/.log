@@ -235,3 +235,22 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\niels\Documen
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-11-29 09:54:13.406
 !MESSAGE Indexed 'Smart_solarpanel_quest_39_project' (21 sources, 109 headers) in 2.2 sec: 8,952 declarations; 42,170 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.37%)
+!SESSION 2022-12-12 12:42:10.925 -----------------------------------------------
+eclipse.buildId=Version 1.11.0
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  C:\Users\niels\Documents\Homework\Jaar_3\Quest\Smart_Solarpanel_Repository\CubeIDE\Smart_solarpanel_quest_39_project\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\niels\Documents\Homework\Jaar_3\Quest\Smart_Solarpanel_Repository\CubeIDE\Smart_solarpanel_quest_39_project\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-12-12 12:42:18.200
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-12-12 12:42:18.294
+!MESSAGE Log4j initialized with config file C:\Users\niels\Documents\Homework\Jaar_3\Quest\Smart_Solarpanel_Repository\CubeIDE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-12-12 12:42:25.871
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-12-12 12:42:28.156
+!MESSAGE Indexed 'Smart_solarpanel_quest_39_project' (21 sources, 109 headers) in 2.23 sec: 8,952 declarations; 42,170 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.37%)
