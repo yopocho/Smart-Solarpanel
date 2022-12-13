@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Component_libraries/ul_TB005-762-02BE/KiCAD/2022-12-06_08-09-38/footprints.pretty")(options "")(descr ""))
+  (lib (name "TB005")(type "KiCad")(uri "${KIPRJMOD}/Component_libraries/ul_TB005-762-02BE/KiCAD/2022-12-06_08-09-38/footprints.pretty")(options "")(descr ""))
+  (lib (name "17791063215")(type "KiCad")(uri "${KIPRJMOD}/Component_libraries/ul_17791063215/KiCAD/2022-12-12_08-27-34/footprints.pretty")(options "")(descr ""))
 )
