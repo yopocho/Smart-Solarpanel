@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '17791063215'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "17791063215" (!) = "", "17791063215", "Other", "710-17791063215", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/17791063215?qs=vLWxofP3U2xkPONd0ILDhA%3D%3D", "", "", "", "", "Switching Voltage Regulators VISM 2kVReg 8-42VInp 1W SIP-8 3.3-6V Outp", "https://www.mouser.de/datasheet/2/445/17791063215-1715724.pdf", "11.6 mm"
+END_PART
+
+END.

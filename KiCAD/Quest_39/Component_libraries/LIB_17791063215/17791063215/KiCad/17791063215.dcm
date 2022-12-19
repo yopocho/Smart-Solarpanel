@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 17791063215
+D Switching Voltage Regulators VISM 2kVReg 8-42VInp 1W SIP-8 3.3-6V Outp
+K
+F https://www.mouser.de/datasheet/2/445/17791063215-1715724.pdf
+$ENDCMP
+#
+#End Doc Library

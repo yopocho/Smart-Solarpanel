@@ -1,0 +1,20 @@
+.17791063215 :1 ;Switching Voltage Regulators VISM 2kVReg 8-42VInp 1W SIP-8 3.3-6V Outp
+"17791063215"
+*STM PS
+*NGS
+*PLB 1="-VIN" 2="+VIN" 3="CTRL" 5="NC" 6="+VOUT" 7="-VOUT" 8="FB"
+*MXP 7
+*DFN 17791063215
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (17791063215)
+~!Mouser Part Number (710-17791063215)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/17791063215?qs=vLWxofP3U2xkPONd0ILDhA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.mouser.de/datasheet/2/445/17791063215-1715724.pdf)
+~!Height (11.6mm)
+~!3D_Model (17791063215)
+"17791063215"
+1.1!U 2.1!U 3.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

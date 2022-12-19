@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=17791063215
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=7
+Version=1.7
+Released=2021-05-02 17:19:12
+Downloaded=2022-12-19 10:04:59
+3D=Y
