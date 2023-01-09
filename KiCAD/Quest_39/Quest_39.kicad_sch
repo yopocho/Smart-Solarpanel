@@ -1158,6 +1158,7 @@
     )
   )
 
+
   (junction (at 137.16 29.21) (diameter 0) (color 0 0 0 0)
     (uuid 0c57a9dd-4e31-482a-a87d-f5db4f001b87)
   )
@@ -6594,6 +6595,36 @@
     )
     (path "/a55c322a-c04c-4b90-aaef-b1ea2a8a2f96"
       (reference "J12") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/8781658c-e5d4-40cc-b0c0-8e95668fb10a/66ec43bb-35e9-470b-acb9-bd82ad2620a7"
+      (reference "JP1") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/01145f31-66fb-4336-a20a-415ca2d8ed4f/65ffac1a-dc62-4a59-8c4b-72e49f053bfb"
+      (reference "JP2") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/a3821039-2367-4234-b9fc-572f119c5510/e68e1e02-775d-462d-91a7-93b2e20872af"
+      (reference "JP3") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/d699c993-5c5f-484c-8b78-e2ca8eac2975/be47c6ff-9de0-4e94-9f8e-649aba3a276c"
+      (reference "JP4") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/637c6b99-addb-47fe-b103-a53d95a706f7/44fe6cc3-faa9-4a3a-9b52-d978fff63c5d"
+      (reference "JP5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/fc9cba08-3e94-48e9-9529-d0b9366c30a9/bee8f94d-8672-493d-853b-abc4e0c1e23a"
+      (reference "JP6") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/40997af8-ded2-4cae-8e58-6efa1bc4b6c3/0fc8cee0-80f5-4523-8b0e-33d10386c4f3"
+      (reference "JP7") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/08acfb94-a1f9-4ff5-9ccc-08016b8638c7/def94bfe-736b-4447-a7de-f134afd20f53"
+      (reference "JP8") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/cff5c3b2-bda4-4922-9905-6bd0bde9a1ce/fc2a7b5a-b050-41a3-9916-9c44b6b16d29"
+      (reference "JP9") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+    )
+    (path "/b44f6773-e3e8-4e75-9d5c-4dbba7b405cd/1eb8107c-920d-4486-8aef-c73dc06deb68"
+      (reference "JP10") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/8a8ad02a-6e1b-4346-a4e0-c9475fea0715"
       (reference "R1") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_1206_3216Metric")
