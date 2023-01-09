@@ -1158,7 +1158,6 @@
     )
   )
 
-
   (junction (at 137.16 29.21) (diameter 0) (color 0 0 0 0)
     (uuid 0c57a9dd-4e31-482a-a87d-f5db4f001b87)
   )
@@ -7155,7 +7154,7 @@
       (reference "U15") (unit 1) (value "MCP4151-502E/SN") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/d699c993-5c5f-484c-8b78-e2ca8eac2975/c61950f0-7d95-49e3-bae5-2f4e67dbf09b"
-      (reference "U16") (unit 1) (value "AD626ANZ") (footprint "Package_DIP:DIP-8_W8.89mm_SMDSocket_LongPads")
+      (reference "U16") (unit 1) (value "AD626ANZ") (footprint "Package_DIP:DIP-8_W7.62mm_Socket_LongPads")
     )
     (path "/d699c993-5c5f-484c-8b78-e2ca8eac2975/6aa3d253-be38-4985-aff0-1da2df57003c"
       (reference "U17") (unit 1) (value "INA226") (footprint "Package_SO:VSSOP-10_3x3mm_P0.5mm")

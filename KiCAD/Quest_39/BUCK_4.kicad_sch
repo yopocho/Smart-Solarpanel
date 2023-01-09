@@ -1278,7 +1278,6 @@
     )
   )
 
-
   (junction (at 322.58 82.55) (diameter 0) (color 0 0 0 0)
     (uuid 003b3878-2d36-4543-8750-3bcadaf22dcd)
   )
@@ -3656,7 +3655,7 @@
     (property "Value" "AD626ANZ" (id 1) (at 48.26 78.74 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Package_DIP:DIP-8_W8.89mm_SMDSocket_LongPads" (id 2) (at 44.45 61.214 0)
+    (property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads" (id 2) (at 44.45 61.214 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 26.67 66.04 0)
