@@ -4182,7 +4182,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 254 105.41 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6bee6f7d-59ef-4d44-bae2-f37fa2ce899b)
-    (property "Reference" "J11" (id 0) (at 256.54 105.4099 0)
+    (property "Reference" "J10" (id 0) (at 256.54 105.4099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1x2 Scr. Term." (id 1) (at 246.38 110.49 0)
@@ -4237,7 +4237,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 254 87.63 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 77c9d558-da26-44ef-8991-9b4c76ecd1df)
-    (property "Reference" "J9" (id 0) (at 256.54 87.6299 0)
+    (property "Reference" "J8" (id 0) (at 256.54 87.6299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1x2 Scr. Term." (id 1) (at 246.38 92.71 0)
@@ -4688,7 +4688,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 364.49 63.5 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b7ec1e0a-09b8-4a1b-a8d2-7b406e266333)
-    (property "Reference" "J6" (id 0) (at 367.03 63.4999 0)
+    (property "Reference" "J11" (id 0) (at 367.03 63.4999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1x2 Scr. Term." (id 1) (at 356.87 68.58 0)
@@ -4776,7 +4776,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 254 96.52 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c6b1c2dc-99c6-4581-9e93-ef553b9a60e7)
-    (property "Reference" "J10" (id 0) (at 256.54 96.5199 0)
+    (property "Reference" "J9" (id 0) (at 256.54 96.5199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1x2 Scr. Term." (id 1) (at 246.38 101.6 0)
@@ -4922,7 +4922,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 254 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ddfdc362-7411-4278-9142-272fedb7a2a3)
-    (property "Reference" "J8" (id 0) (at 256.54 78.7399 0)
+    (property "Reference" "J7" (id 0) (at 256.54 78.7399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1x2 Scr. Term." (id 1) (at 246.38 83.82 0)
@@ -4976,7 +4976,7 @@
   (symbol (lib_id "Connector:Screw_Terminal_01x02") (at 254 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dff79451-050b-4301-9612-8255e4d0a4c2)
-    (property "Reference" "J7" (id 0) (at 256.54 69.8499 0)
+    (property "Reference" "J6" (id 0) (at 256.54 69.8499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1x2 Scr. Term." (id 1) (at 246.38 74.93 0)
@@ -6570,22 +6570,22 @@
     (path "/6045a495-623d-45c2-951c-634e396b21c4"
       (reference "J5") (unit 1) (value "1x2 Scr. Term.") (footprint "TB005:TB005-762-02BE")
     )
-    (path "/b7ec1e0a-09b8-4a1b-a8d2-7b406e266333"
+    (path "/dff79451-050b-4301-9612-8255e4d0a4c2"
       (reference "J6") (unit 1) (value "1x2 Scr. Term.") (footprint "TB005:TB005-762-02BE")
     )
-    (path "/dff79451-050b-4301-9612-8255e4d0a4c2"
+    (path "/ddfdc362-7411-4278-9142-272fedb7a2a3"
       (reference "J7") (unit 1) (value "1x2 Scr. Term.") (footprint "TB005:TB005-762-02BE")
     )
-    (path "/ddfdc362-7411-4278-9142-272fedb7a2a3"
+    (path "/77c9d558-da26-44ef-8991-9b4c76ecd1df"
       (reference "J8") (unit 1) (value "1x2 Scr. Term.") (footprint "TB005:TB005-762-02BE")
     )
-    (path "/77c9d558-da26-44ef-8991-9b4c76ecd1df"
+    (path "/c6b1c2dc-99c6-4581-9e93-ef553b9a60e7"
       (reference "J9") (unit 1) (value "1x2 Scr. Term.") (footprint "TB005:TB005-762-02BE")
     )
-    (path "/c6b1c2dc-99c6-4581-9e93-ef553b9a60e7"
+    (path "/6bee6f7d-59ef-4d44-bae2-f37fa2ce899b"
       (reference "J10") (unit 1) (value "1x2 Scr. Term.") (footprint "TB005:TB005-762-02BE")
     )
-    (path "/6bee6f7d-59ef-4d44-bae2-f37fa2ce899b"
+    (path "/b7ec1e0a-09b8-4a1b-a8d2-7b406e266333"
       (reference "J11") (unit 1) (value "1x2 Scr. Term.") (footprint "TB005:TB005-762-02BE")
     )
     (path "/a55c322a-c04c-4b90-aaef-b1ea2a8a2f96"
@@ -7222,7 +7222,7 @@
       (reference "U39") (unit 1) (value "MCP4151-502E/SN") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/b44f6773-e3e8-4e75-9d5c-4dbba7b405cd/74cd0bb3-e3f7-475e-85df-bd98cbcb2213"
-      (reference "U40") (unit 1) (value "AD626ANZ") (footprint "Package_DIP:DIP-8_W8.89mm_SMDSocket_LongPads")
+      (reference "U40") (unit 1) (value "AD626ANZ") (footprint "Package_DIP:DIP-8_W7.62mm_Socket_LongPads")
     )
     (path "/b44f6773-e3e8-4e75-9d5c-4dbba7b405cd/f97e1c91-ef6c-409c-bf4b-77cb96e879ba"
       (reference "U41") (unit 1) (value "INA226") (footprint "Package_SO:VSSOP-10_3x3mm_P0.5mm")
