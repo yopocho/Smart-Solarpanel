@@ -1870,7 +1870,7 @@
     (uuid 6ac269c8-ff81-40d4-bcf7-e67aec4ad81b)
   )
 
-  (wire (pts (xy 171.45 90.17) (xy 184.15 90.17))
+  (wire (pts (xy 171.45 90.17) (xy 186.69 90.17))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6b59f4f7-f3eb-4567-807c-39c316d742ae)
   )
@@ -3368,6 +3368,24 @@
     (pin "1" (uuid fe2f46bb-ffe9-4604-8a68-d9a912262c23))
   )
 
+  (symbol (lib_id "Connector:TestPoint") (at 186.69 90.17 270) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 061ab18d-bcf6-4d4a-a6ad-8b400acdd03b)
+    (property "Reference" "TP77" (id 0) (at 191.77 88.8999 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "TestPoint" (id 1) (at 191.77 91.4399 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm" (id 2) (at 186.69 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 186.69 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9f2ff37b-1d44-4168-ad1c-5f5a7f1d0fbf))
+  )
+
   (symbol (lib_id "power:+3.3V") (at 201.93 26.67 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 070449c6-7963-4e07-a709-e7c35c323e3e)
@@ -3880,6 +3898,20 @@
     )
     (pin "1" (uuid 03420f10-b001-45de-a73e-5fed86435dfe))
     (pin "2" (uuid c78e008c-6d69-4776-8574-2c80808acadf))
+  )
+
+  (symbol (lib_id "Connector:TestPoint") (at 106.68 92.71 90) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 40a87cde-b297-4d31-a926-c458c0a5be97)
+    (property "Reference" "TP76" (id 0) (at 96.52 90.17 90))
+    (property "Value" "TestPoint" (id 1) (at 96.52 92.71 90))
+    (property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm" (id 2) (at 106.68 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 106.68 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e5e13603-e0b9-4b42-b4a8-145887c719c7))
   )
 
   (symbol (lib_id "Device:C") (at 355.6 36.83 0) (unit 1)
@@ -7103,6 +7135,12 @@
     )
     (path "/b44f6773-e3e8-4e75-9d5c-4dbba7b405cd/d102245e-a59c-451e-a6b4-dd5c90576739"
       (reference "TP75") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
+    (path "/40a87cde-b297-4d31-a926-c458c0a5be97"
+      (reference "TP76") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
+    )
+    (path "/061ab18d-bcf6-4d4a-a6ad-8b400acdd03b"
+      (reference "TP77") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
     (path "/3744030b-c48a-48bd-a5cf-c353ea25d475"
       (reference "U1") (unit 1) (value "AZ1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
