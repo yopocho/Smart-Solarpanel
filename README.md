@@ -14,7 +14,7 @@ To find the MPPT for each of the ten sections a dedicated LTM4611EV Buck-convert
 
 Programming the microcontroller is done through SWD via the provided 2.54mm pitch pins besides it.
 
-![3D Model of the PCB](Images/3d_view)
+![3D Model of the PCB](Images/3D_view)
 
 ### Firmware
 
