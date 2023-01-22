@@ -38,8 +38,9 @@ The provided files can be used as template to retrofit a classic solarpanel into
 
 ## Built With
 
-* [Kicad](http://www.dropwizard.io/1.0.2/docs/) - EDA 
-* [SolidWorks](https://maven.apache.org/) - CAD
+* [Kicad](https://www.kicad.org/) - EDA
+* [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) - IDE 
+* [SolidWorks](https://www.solidworks.com/) - CAD
 
 ## Authors
 
