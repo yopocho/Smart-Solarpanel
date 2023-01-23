@@ -22,19 +22,18 @@ The code for the microcontroller has at this moment not been written yet. The pi
 
 ## Mechanicals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The mechanical enclosure was calculated using Solidworks Simulation software to make sure it does not exceed the maximum allowed temperature of 70 degrees Celsius. For this reason the enclosure is made out of aluminium.
 
-### Lorem ipsum
+### Connections
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The electrical connections are made using copper wire, as it is cheap and the resistance is low. Since a lot more of the cells are wired in parallel than in a conventional panel, thicker wire must be used to keep the losses under 2%. The wires are routed to the central PCB, where the MPP is calculated and everything is controlled.
 
-```
-Lorem ipsum
-```
+The enclosure is waterproof with an IP65 rating. It is glued to the back of the panel. Several panels can be connected in series using standard connectors.
+
 
 ## Use
 
-The provided files can be used as template to retrofit a classic solarpanel into a smart solarpanel. The PCB can be ordered and assembled, after which it can be fitted to the solarpanel in the custom housing. 
+The provided files can be used as template to retrofit a classic solarpanel into a smart solarpanel. The PCB can be ordered and assembled, after which it can be fitted to the solar panel in the custom housing. 
 
 ## Built With
 
@@ -45,9 +44,9 @@ The provided files can be used as template to retrofit a classic solarpanel into
 ## Authors
 
 * **Niels van der Zijden** - [Yopocho](https://github.com/yopocho)
-* **Marnix Remmig** - [xxx placeholder](https://github.com/yopocho)
-* **Teun** - [xxx placeholder](https://github.com/yopocho)
-* **Silas** - [xxx placeholder](https://github.com/yopocho)
+* **Marnix Remmig** 
+* **Teun Drijfhout** 
+* **Silas Witmond** 
 
 ## License
 
