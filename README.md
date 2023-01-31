@@ -56,7 +56,7 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* **S. Zahra Mirbagheri Golroodbari** - Commisioner
+* **Dr. Sara Mirbagheri Golroodbari** - Commisioner
 * **Joost Kouijzer** - Group supervisor during this project
 * **Marcel** - For letting our group use his lab during the project
 
