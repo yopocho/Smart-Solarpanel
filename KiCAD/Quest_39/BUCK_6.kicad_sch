@@ -4,6 +4,12 @@
 
   (paper "A3")
 
+  (title_block
+    (title "BUCK_6")
+    (date "2023-01-31")
+    (rev "1.0")
+  )
+
   (lib_symbols
     (symbol "AD626ANZ:AD626ANZ" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "U?" (id 0) (at 39.37 10.16 0)
